@@ -1,0 +1,3 @@
+User-agent: *
+
+sitemap: https://jkbo-photography.photos/sitemap.xml
